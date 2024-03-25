@@ -44,8 +44,8 @@ function Skills() {
             <ul>
                 <li>JavaScript</li>
                 <li>React</li>
-                <li>Node.js</li>
                 <li>HTML & CSS</li>
+                <li>C</li>
             </ul>
         </section>
     );
